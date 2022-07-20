@@ -3,10 +3,9 @@
    <a href="https://www.linkedin.com/in/khai-gia-6b79381b2/">
   </a>
 </p>
----
 <h3 align="center">A web developer from Vietnam</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=giakhai alt=sachinverma53121/></p>
----
+
 <h4>Language and Tools: </h4>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
@@ -22,7 +21,7 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
  
 </p>
----
+
 <h4>Desktop Environment: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
