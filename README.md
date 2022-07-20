@@ -6,8 +6,7 @@
 </p>
 
 <h3 align="center">A web developer from Vietnam</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=giakhai alt=sachinverma53121/></p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
