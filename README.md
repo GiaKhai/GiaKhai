@@ -32,4 +32,9 @@
 
 ### My GitHub Stats:
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=giakhai&show_icons=true)
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=giakhai&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakhai&count_private=true&theme=dracula">
+
+</p>
